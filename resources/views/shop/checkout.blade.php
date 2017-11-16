@@ -28,13 +28,13 @@
                 <div class='form-row'>
                     <div class='form-group required'>
                         <label class='control-label'>Card Holder Name</label>
-                        <input class='form-control' size='4' type='text' id="card-name" required>
+                        <input class='form-control' size='4' type='text' id="card-name" name="name" required>
                     </div>
                 </div>
                 <div class='form-row'>
                     <div class='form-group card required'>
                         <label class='control-label'>Billing Address</label>
-                        <input autocomplete='off' class='form-control' size='20' type='text' id="address" required>
+                        <input autocomplete='off' class='form-control' size='20' type='text' id="address" name="address" required>
                     </div>
                 </div>
                 <div class='form-row'>
