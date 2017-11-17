@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3687ce5-1ed2-41c0-b8b9-8a58900032f8" name="Default" comment="Добавлена страница">
+    <list default="true" id="c3687ce5-1ed2-41c0-b8b9-8a58900032f8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Cart.php" afterPath="$PROJECT_DIR$/app/Cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/shop/shopping-cart.blade.php" afterPath="$PROJECT_DIR$/resources/views/shop/shopping-cart.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/user/profile.blade.php" afterPath="$PROJECT_DIR$/resources/views/user/profile.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -266,12 +260,20 @@
       <updated>1507819082451</updated>
       <workItem from="1507819083811" duration="6618000" />
       <workItem from="1508218055914" duration="32079000" />
-      <workItem from="1510853668491" duration="9675000" />
+      <workItem from="1510853668491" duration="9756000" />
     </task>
+    <task id="LOCAL-00001" summary="Добавлена верстка заказов, возможность удалять товары из корзины">
+      <created>1510925344750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510925344750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48372000" />
+    <option name="totallyTimeSpent" value="48453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="717" height="735" extended-state="0" />
@@ -303,6 +305,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлена верстка заказов, возможность удалять товары из корзины" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена верстка заказов, возможность удалять товары из корзины" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
